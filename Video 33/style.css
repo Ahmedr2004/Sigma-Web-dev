@@ -1,0 +1,30 @@
+.navigation nav2{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    display: inline;
+    margin: 5px;
+    padding: 5px;
+}
+
+a:visited{
+    color: blueviolet;
+}
+
+a:link{
+    color: blue;
+}
+
+a:hover{
+    color: aliceblue;
+}
+
+.navigation{
+    display: flex;
+    justify-content: center;
+    height: 25vh;
+    width: 100vw;
+    background-color: orangered;
+}

@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Header1{
+    background-color: orange;
+    width: 100vw;
+    height: 20vh;
+    position: sticky;
+    top: 0;
+}
+
+main{
+    background-color: black;
+}
+.boxes{
+
+        background-color: green;
+        margin: 12px 34px;
+        padding: 55px 23px;
+        text-align: center;
+}
+
+.box{
+    background-color: palevioletred;
+            height: 70vh;
+            width: 45%;
+            display: inline-block;
+            margin: 12px 12px;
+}
+
+.textbox{
+    margin: 10px;
+    height: 20vh;
+    width: 80vw;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(106, 223, 85);
+}
+
+body{
+    text-align: center;
+}
